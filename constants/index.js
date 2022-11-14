@@ -581,14 +581,17 @@ export const NFT_CONTRACT_ABI = [
     type: "receive",
   },
 ];
+
+
+
 export const NFT_CONTRACT_ADDRESS =
   "0x1bcc8A626F1106578F480c2F85881E2bFA5D6bDa";
 
-export const TOKEN_CONTRACT_ABI = {
-  _format: "hh-sol-artifact-1",
-  contractName: "CryptoDevToken",
-  sourceName: "contracts/CryptoDevToken.sol",
-  abi: [
+
+
+
+export const TOKEN_CONTRACT_ABI = 
+ [
     {
       inputs: [
         {
@@ -1016,7 +1019,7 @@ export const TOKEN_CONTRACT_ABI = {
       type: "receive",
     },
   ],
-};
+;
 
 export const TOKEN_CONTRACT_ADDRESS =
   "0x622dE4E172E98e744f3bA6A82E080cBCf78E62d4";
