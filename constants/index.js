@@ -1017,5 +1017,6 @@ export const TOKEN_CONTRACT_ABI = {
     },
   ],
 };
+
 export const TOKEN_CONTRACT_ADDRESS =
   "0x622dE4E172E98e744f3bA6A82E080cBCf78E62d4";
